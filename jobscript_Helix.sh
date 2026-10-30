@@ -11,7 +11,7 @@
 #SBATCH --time=48:00:00
 #SBATCH --mem=8gb
 
-#SBATCH --array=0-19
+#SBATCH --array=0-7
 
 module load devel/cuda/12.6
 module load compiler/gnu/11.3
