@@ -1,0 +1,5 @@
+old/
+DATA/
+tmp/
+tests/
+__pycache__/
